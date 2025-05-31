@@ -1,0 +1,20 @@
+{"prompt": "Apple posted strong earnings...", "completion": "[{\"symbol\": \"AAPL\", \"score\": 0.91}]"}
+{"prompt": "The Fed increased interest rates...", "completion": "[{\"symbol\": \"TSLA\", \"score\": 0.42}]"}
+{"prompt": "Microsoft announced a new product...", "completion": "[{\"symbol\": \"MSFT\", \"score\": 0.75}]"}
+{"prompt": "Tesla's stock price surged...", "completion": "[{\"symbol\": \"TSLA\", \"score\": 0.88}]"}
+{"prompt": "Amazon's quarterly results beat expectations...", "completion": "[{\"symbol\": \"AMZN\", \"score\": 0.80}]"}
+{"prompt": "Google's ad revenue declined...", "completion": "[{\"symbol\": \"GOOGL\", \"score\": 0.65}]"}
+{"prompt": "Meta's user growth slowed down...", "completion": "[{\"symbol\": \"META\", \"score\": 0.55}]"}
+{"prompt": "Nvidia's AI chips are in high demand...", "completion": "[{\"symbol\": \"NVDA\", \"score\": 0.95}]"}
+{"prompt": "Netflix's subscriber count increased...", "completion": "[{\"symbol\": \"NFLX\", \"score\": 0.70}]"}
+{"prompt": "Berkshire Hathaway's investment strategy...", "completion": "[{\"symbol\": \"BRK.A\", \"score\": 0.60}]"}
+{"prompt": "Intel's new chip technology...", "completion": "[{\"symbol\": \"INTC\", \"score\": 0.50}]"}
+{"prompt": "Walmart's sales growth...", "completion": "[{\"symbol\": \"WMT\", \"score\": 0.45}]"}
+{"prompt": "ExxonMobil's oil production levels...", "completion": "[{\"symbol\": \"XOM\", \"score\": 0.40}]"}
+{"prompt": "Johnson & Johnson's healthcare innovations...", "completion": "[{\"symbol\": \"JNJ\", \"score\": 0.55}]"}
+{"prompt": "Visa's payment processing advancements...", "completion": "[{\"symbol\": \"V\", \"score\": 0.65}]"}
+{"prompt": "Pfizer's vaccine distribution...", "completion": "[{\"symbol\": \"PFE\", \"score\": 0.70}]"}
+{"prompt": "Coca-Cola's market expansion...", "completion": "[{\"symbol\": \"KO\", \"score\": 0.50}]"}
+{"prompt": "Procter & Gamble's consumer goods performance...", "completion": "[{\"symbol\": \"PG\", \"score\": 0.55}]"}
+{"prompt": "Disney's streaming service growth...", "completion": "[{\"symbol\": \"DIS\", \"score\": 0.60}]"}
+{"prompt": "Boeing's aircraft orders...", "completion": "[{\"symbol\": \"BA\", \"score\": 0.45}]"}

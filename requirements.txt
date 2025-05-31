@@ -1,0 +1,15 @@
+unsloth
+torch
+numpy
+pandas
+yfinance
+alpaca-trade-api
+datasets
+peft
+bitsandbytes
+accelerate
+transformers
+
+# Mac on dependencies
+torchvision
+torchaudio
